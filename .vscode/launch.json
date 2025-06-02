@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Odoo 18 Run",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/odoo-18/odoo-bin", // Path to the odoo executable script
+            "args": [
+                "-c", "odoo.conf" // Specify the configuration file
+            ],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/odoo-18", // Ensure it runs from the odoo directory
+            "env": {}, // You can add environment variables here if needed
+            "stopOnEntry": false // Set to true to break at the very first line of code
+        }
+    ]
+}

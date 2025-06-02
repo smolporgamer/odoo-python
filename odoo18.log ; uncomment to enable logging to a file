@@ -1,0 +1,89 @@
+2025-05-26 03:33:07,775 20940 INFO ? odoo: Odoo version 18.0 
+2025-05-26 03:33:07,775 20940 INFO ? odoo: Using configuration file at C:\Users\odvid\OneDrive\Desktop\python\odoo-18\odoo.conf 
+2025-05-26 03:33:07,776 20940 INFO ? odoo: addons paths: ['C:\\Users\\odvid\\OneDrive\\Desktop\\python\\odoo-18\\odoo\\addons', 'c:\\users\\odvid\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\addons', 'c:\\users\\odvid\\onedrive\\desktop\\python\\dtt_app\\apps ; add your custom addons path later', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\odoo\\addons'] 
+2025-05-26 03:33:07,777 20940 INFO ? odoo: database: odoo-dev       ; Use the PostgreSQL user you created@localhost:5432 
+2025-05-26 03:33:08,233 20940 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-05-26 03:33:08,244 20940 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-05-26 03:33:09,055 20940 INFO ? odoo.service.server: HTTP service (werkzeug) running on Chaerin:8069 
+2025-05-26 03:33:09,110 20940 INFO ? odoo.sql_db: Connection to the database failed 
+2025-05-26 03:33:48,613 16604 INFO ? odoo: Odoo version 18.0 
+2025-05-26 03:33:48,614 16604 INFO ? odoo: Using configuration file at C:\Users\odvid\OneDrive\Desktop\python\odoo-18\odoo.conf 
+2025-05-26 03:33:48,614 16604 INFO ? odoo: addons paths: ['C:\\Users\\odvid\\OneDrive\\Desktop\\python\\odoo-18\\odoo\\addons', 'c:\\users\\odvid\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\addons', 'c:\\users\\odvid\\onedrive\\desktop\\python\\dtt_app\\apps ; add your custom addons path later', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\odoo\\addons'] 
+2025-05-26 03:33:48,614 16604 INFO ? odoo: database: odoo-dev       ; Use the PostgreSQL user you created@localhost:5432 
+2025-05-26 03:33:48,913 16604 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-05-26 03:33:48,923 16604 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-05-26 03:33:49,439 16604 INFO ? odoo.service.server: HTTP service (werkzeug) running on Chaerin:8069 
+2025-05-26 03:33:49,528 16604 INFO ? odoo.sql_db: Connection to the database failed 
+2025-05-26 03:34:31,520 20940 INFO ? odoo.sql_db: Connection to the database failed 
+2025-05-26 03:35:18,904 13680 INFO ? odoo: Odoo version 18.0 
+2025-05-26 03:35:18,905 13680 INFO ? odoo: Using configuration file at C:\Users\odvid\OneDrive\Desktop\python\odoo-18\odoo.conf 
+2025-05-26 03:35:18,905 13680 INFO ? odoo: addons paths: ['C:\\Users\\odvid\\OneDrive\\Desktop\\python\\odoo-18\\odoo\\addons', 'c:\\users\\odvid\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\addons', 'c:\\users\\odvid\\onedrive\\desktop\\python\\dtt_app\\apps ; add your custom addons path later', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\odoo\\addons'] 
+2025-05-26 03:35:18,905 13680 INFO ? odoo: database: odoo-dev       ; Use the PostgreSQL user you created@localhost:5432 
+2025-05-26 03:35:19,206 13680 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-05-26 03:35:19,216 13680 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-05-26 03:35:19,731 13680 INFO ? odoo.service.server: HTTP service (werkzeug) running on Chaerin:8069 
+2025-05-26 03:35:19,778 13680 INFO ? odoo.sql_db: Connection to the database failed 
+2025-05-26 03:37:33,516 22248 INFO ? odoo: Odoo version 18.0 
+2025-05-26 03:37:33,517 22248 INFO ? odoo: Using configuration file at C:\Users\odvid\OneDrive\Desktop\python\odoo-18\odoo.conf 
+2025-05-26 03:37:33,518 22248 INFO ? odoo: addons paths: ['C:\\Users\\odvid\\OneDrive\\Desktop\\python\\odoo-18\\odoo\\addons', 'c:\\users\\odvid\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\addons', 'c:\\users\\odvid\\onedrive\\desktop\\python\\dtt_app\\apps ; add your custom addons path later', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\odoo\\addons'] 
+2025-05-26 03:37:33,518 22248 INFO ? odoo: database: odoo_dev       ; Use the PostgreSQL user you created@localhost:5432 
+2025-05-26 03:37:33,811 22248 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-05-26 03:37:33,821 22248 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-05-26 03:37:34,318 22248 INFO ? odoo.service.server: HTTP service (werkzeug) running on Chaerin:8069 
+2025-05-26 03:37:34,361 22248 INFO ? odoo.sql_db: Connection to the database failed 
+2025-05-26 03:37:54,356 4528 INFO ? odoo: Odoo version 18.0 
+2025-05-26 03:37:54,356 4528 INFO ? odoo: Using configuration file at C:\Users\odvid\OneDrive\Desktop\python\odoo-18\odoo.conf 
+2025-05-26 03:37:54,356 4528 INFO ? odoo: addons paths: ['C:\\Users\\odvid\\OneDrive\\Desktop\\python\\odoo-18\\odoo\\addons', 'c:\\users\\odvid\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\addons', 'c:\\users\\odvid\\onedrive\\desktop\\python\\dtt_app\\apps ; add your custom addons path later', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\odoo\\addons'] 
+2025-05-26 03:37:54,357 4528 INFO ? odoo: database: postgres       ; Use the PostgreSQL user you created@localhost:5432 
+2025-05-26 03:37:54,679 4528 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-05-26 03:37:54,689 4528 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-05-26 03:37:55,192 4528 INFO ? odoo.service.server: HTTP service (werkzeug) running on Chaerin:8069 
+2025-05-26 03:37:55,236 4528 INFO ? odoo.sql_db: Connection to the database failed 
+2025-05-26 03:38:29,235 20636 INFO ? odoo: Odoo version 18.0 
+2025-05-26 03:38:29,235 20636 INFO ? odoo: Using configuration file at C:\Users\odvid\OneDrive\Desktop\python\odoo-18\odoo.conf 
+2025-05-26 03:38:29,235 20636 INFO ? odoo: addons paths: ['C:\\Users\\odvid\\OneDrive\\Desktop\\python\\odoo-18\\odoo\\addons', 'c:\\users\\odvid\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\addons', 'c:\\users\\odvid\\onedrive\\desktop\\python\\dtt_app\\apps ; add your custom addons path later', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\odoo\\addons'] 
+2025-05-26 03:38:29,235 20636 INFO ? odoo: database: odoo_dev       ; Use the PostgreSQL user you created@localhost:5432 
+2025-05-26 03:38:29,542 20636 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-05-26 03:38:29,551 20636 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-05-26 03:38:30,061 20636 INFO ? odoo.service.server: HTTP service (werkzeug) running on Chaerin:8069 
+2025-05-26 03:38:30,109 20636 INFO ? odoo.sql_db: Connection to the database failed 
+2025-05-26 03:38:45,750 18436 INFO ? odoo: Odoo version 18.0 
+2025-05-26 03:38:45,750 18436 INFO ? odoo: Using configuration file at C:\Users\odvid\OneDrive\Desktop\python\odoo-18\odoo.conf 
+2025-05-26 03:38:45,751 18436 INFO ? odoo: addons paths: ['C:\\Users\\odvid\\OneDrive\\Desktop\\python\\odoo-18\\odoo\\addons', 'c:\\users\\odvid\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\addons', 'c:\\users\\odvid\\onedrive\\desktop\\python\\dtt_app\\apps ; add your custom addons path later', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\odoo\\addons'] 
+2025-05-26 03:38:45,751 18436 INFO ? odoo: database: odoo_dev       ; Use the PostgreSQL user you created@localhost:5432 
+2025-05-26 03:38:46,058 18436 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-05-26 03:38:46,068 18436 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-05-26 03:38:46,575 18436 INFO ? odoo.service.server: HTTP service (werkzeug) running on Chaerin:8069 
+2025-05-26 03:38:46,622 18436 INFO ? odoo.sql_db: Connection to the database failed 
+2025-05-26 03:41:52,301 4136 INFO ? odoo: Odoo version 18.0 
+2025-05-26 03:41:52,301 4136 INFO ? odoo: Using configuration file at C:\Users\odvid\OneDrive\Desktop\python\odoo-18\odoo.conf 
+2025-05-26 03:41:52,301 4136 INFO ? odoo: addons paths: ['C:\\Users\\odvid\\OneDrive\\Desktop\\python\\odoo-18\\odoo\\addons', 'c:\\users\\odvid\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\addons', 'c:\\users\\odvid\\onedrive\\desktop\\python\\dtt_app\\apps ; add your custom addons path later', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\odoo\\addons'] 
+2025-05-26 03:41:52,302 4136 INFO ? odoo: database: odoo_dev       ; Use the PostgreSQL user you created@localhost:5432 
+2025-05-26 03:41:52,600 4136 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-05-26 03:41:52,610 4136 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-05-26 03:41:53,106 4136 INFO ? odoo.service.server: HTTP service (werkzeug) running on Chaerin:8069 
+2025-05-26 03:41:53,259 4136 INFO ? odoo.sql_db: Connection to the database failed 
+2025-05-26 03:43:46,186 15996 INFO ? odoo: Odoo version 18.0 
+2025-05-26 03:43:46,187 15996 INFO ? odoo: Using configuration file at C:\Users\odvid\OneDrive\Desktop\python\odoo-18\odoo.conf 
+2025-05-26 03:43:46,187 15996 INFO ? odoo: addons paths: ['C:\\Users\\odvid\\OneDrive\\Desktop\\python\\odoo-18\\odoo\\addons', 'c:\\users\\odvid\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\addons', 'c:\\users\\odvid\\onedrive\\desktop\\python\\dtt_app\\apps ; add your custom addons path later', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\odoo\\addons'] 
+2025-05-26 03:43:46,187 15996 INFO ? odoo: database: odoo_dev       ; Use the PostgreSQL user you created@localhost:5432 
+2025-05-26 03:43:46,501 15996 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-05-26 03:43:46,511 15996 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-05-26 03:43:47,043 15996 INFO ? odoo.service.server: HTTP service (werkzeug) running on Chaerin:8069 
+2025-05-26 03:43:47,092 15996 INFO ? odoo.sql_db: Connection to the database failed 
+2025-05-26 03:44:31,535 12420 INFO ? odoo: Odoo version 18.0 
+2025-05-26 03:44:31,535 12420 INFO ? odoo: Using configuration file at C:\Users\odvid\OneDrive\Desktop\python\odoo-18\odoo.conf 
+2025-05-26 03:44:31,536 12420 INFO ? odoo: addons paths: ['C:\\Users\\odvid\\OneDrive\\Desktop\\python\\odoo-18\\odoo\\addons', 'c:\\users\\odvid\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\addons', 'c:\\users\\odvid\\onedrive\\desktop\\python\\dtt_app\\apps ; add your custom addons path later', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\odoo\\addons'] 
+2025-05-26 03:44:31,536 12420 INFO ? odoo: database: postgres       ; Use the PostgreSQL user you created@localhost:5432 
+2025-05-26 03:44:31,881 12420 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-05-26 03:44:31,892 12420 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-05-26 03:44:32,419 12420 INFO ? odoo.service.server: HTTP service (werkzeug) running on Chaerin:8069 
+2025-05-26 03:44:32,464 12420 INFO ? odoo.sql_db: Connection to the database failed 
+2025-05-26 03:44:47,751 22204 INFO ? odoo: Odoo version 18.0 
+2025-05-26 03:44:47,751 22204 INFO ? odoo: Using configuration file at C:\Users\odvid\OneDrive\Desktop\python\odoo-18\odoo.conf 
+2025-05-26 03:44:47,751 22204 INFO ? odoo: addons paths: ['C:\\Users\\odvid\\OneDrive\\Desktop\\python\\odoo-18\\odoo\\addons', 'c:\\users\\odvid\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\addons', 'c:\\users\\odvid\\onedrive\\desktop\\python\\dtt_app\\apps ; add your custom addons path later', 'c:\\users\\odvid\\onedrive\\desktop\\python\\odoo-18\\odoo\\addons'] 
+2025-05-26 03:44:47,752 22204 INFO ? odoo: database: postgres       ; Use the PostgreSQL user you created@localhost:5432 
+2025-05-26 03:44:48,047 22204 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-05-26 03:44:48,057 22204 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-05-26 03:44:48,555 22204 INFO ? odoo.service.server: HTTP service (werkzeug) running on Chaerin:8069 
+2025-05-26 03:44:48,706 22204 INFO ? odoo.sql_db: Connection to the database failed 
