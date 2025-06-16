@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+
+    <record id="action_cat_counter" model="ir.actions.client">
+        <field name="name">Counter</field>
+        <field name="tag">animals.CatCounter</field>
+    </record>
+    <!-- MENU -->
+    <menuitem id="menu_animals_root" name="cat" sequence="1" web_icon="cat,static/img/meow.png"/>
+
+    <!-- SUB menu -->
+    <!-- <menuitem id="sub_menu_meow_one" name="one" sequence="2" parent="menu_meow_root" action="action_meow"/>
+    <menuitem id="sub_menu_meow_two" name="two" sequence="3" parent="menu_meow_root"/> -->
+    <menuitem id="sub_menu_cats" name="Cats" sequence="2" parent="menu_animals_root" action="action_cat_counter"/>
+    
+
+</odoo>

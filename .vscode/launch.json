@@ -3,16 +3,16 @@
     "configurations": [
         {
             "name": "Odoo 18 Run",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/odoo-18/odoo-bin", // Path to the odoo executable script
+            "program": "C:/Users/odvid/OneDrive/Desktop/python/odoo-18/odoo-bin",
             "args": [
-                "-c", "odoo.conf" // Specify the configuration file
+                "-c", "odoo.conf"
             ],
             "console": "integratedTerminal",
-            "cwd": "${workspaceFolder}/odoo-18", // Ensure it runs from the odoo directory
-            "env": {}, // You can add environment variables here if needed
-            "stopOnEntry": false // Set to true to break at the very first line of code
+            "cwd": "C:/Users/odvid/OneDrive/Desktop/python/odoo-18", 
+            "env": {},
+            "stopOnEntry": false
         }
     ]
 }
